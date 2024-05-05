@@ -1,0 +1,16 @@
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.deps.json
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Core.dll
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.sourcelink.json
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.R.11436BBB.Up2Date
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.dll
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\refint\NLayer.Repository.dll
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.pdb
+C:\Users\VmMachine\Documents\GitHub\Asp.Net-Core-Best-Practices\NLayerApp\NLayer.Repository\obj\Debug\net8.0\ref\NLayer.Repository.dll

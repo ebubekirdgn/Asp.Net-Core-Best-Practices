@@ -6,6 +6,5 @@
 
         // Navigation Property
         public ICollection<Product> Products { get; set; }
-
     }
 }

@@ -1,8 +1,8 @@
-﻿namespace NLayer.Core
+﻿namespace NLayer.Core.Entities
 {
-    public class ProductFeature 
+    public class ProductFeature
     {
-        public int Id{ get; set; }
+        public int Id { get; set; }
         public string Color { get; set; }
 
         public int Width { get; set; }

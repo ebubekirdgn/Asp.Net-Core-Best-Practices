@@ -1,4 +1,4 @@
-﻿namespace NLayer.Core.Entities
+﻿namespace NLayer.Core.Models
 {
     public class ProductFeature
     {

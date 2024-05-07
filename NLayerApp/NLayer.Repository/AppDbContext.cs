@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NLayer.Core.Entities;
+using NLayer.Core.Models;
 using System.Reflection;
 
 namespace NLayer.Repository
